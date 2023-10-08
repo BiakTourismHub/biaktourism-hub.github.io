@@ -1,0 +1,17 @@
+{
+    "page1": {
+      "title": "Halaman 1 - Perkenalan",
+      "content": {
+        "imageURL": "https://cdn.discordapp.com/attachments/1146356868537667644/1159434922587586570/Screenshot_529.png?ex=653102ea&is=651e8dea&hm=9b6383662d3a2cc3c9801fd3ed303201a38be67719803f2b320cf146d505f50d&",
+        "description": "Ini adalah halaman perkenalan dengan gambar di sebelah kiri dan keterangan di sebelah kanan."
+      }
+    },
+    "page2": {
+      "title": "Halaman 2",
+      "content": "Ini adalah halaman kedua dengan perkenalan aplikasi."
+    },
+    "page3": {
+      "title": "Halaman 3",
+      "content": "Ini adalah halaman ketiga dengan fitur-fitur aplikasi."
+    }
+}
